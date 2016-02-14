@@ -1,5 +1,7 @@
 # react-smooth
 
+[![Join the chat at https://gitter.im/recharts/react-smooth](https://badges.gitter.im/recharts/react-smooth.svg)](https://gitter.im/recharts/react-smooth?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 react-smooth is a animation library work on React.
 
 [![npm version](https://badge.fury.io/js/react-smooth.png)](https://badge.fury.io/js/react-smooth)
